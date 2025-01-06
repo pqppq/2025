@@ -7,3 +7,5 @@
 - [複数の企業でデータエンジニアとして求められたスキル](https://www.yasuhisay.info/entry/2024/04/29/190206)
 - [アーキテクチャ設計の民主化とADR(Architectural Decision Records)による意思決定の未来 - Facilitating Software Architecture の読書感想文](https://syu-m-5151.hatenablog.com/entry/2024/12/31/232546)
 - [Netflixで2億3800万人の会員を管理するということ](https://www.infoq.com/jp/articles/managing-memberships-netflix/)
+- [【翻訳】テスト駆動開発の定義](https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck)
+- [DOM Standard](https://dom.spec.whatwg.org/)
