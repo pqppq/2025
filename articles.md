@@ -9,3 +9,7 @@
 - [Netflixで2億3800万人の会員を管理するということ](https://www.infoq.com/jp/articles/managing-memberships-netflix/)
 - [【翻訳】テスト駆動開発の定義](https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck)
 - [DOM Standard](https://dom.spec.whatwg.org/)
+- rustで超簡単なjson parser書いてみた
+    - https://github.com/pqppq/rs-json-parser
+- [【レビュー】sd Quattroを2年使って思ったこと](https://note.com/plnra/n/ne7b67620c28c)  
+    - 数年ぶりにカメラ本体が欲しくなってきた
