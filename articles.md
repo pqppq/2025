@@ -17,3 +17,4 @@
     - プライベートOKRなるほど
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb)
     - aws環境でもうごくのかな
+- [Gleam](Gleam is a friendly language for building type-safe systems) 
