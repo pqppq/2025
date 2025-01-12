@@ -13,3 +13,7 @@
     - https://github.com/pqppq/rs-json-parser
 - [【レビュー】sd Quattroを2年使って思ったこと](https://note.com/plnra/n/ne7b67620c28c)  
     - 数年ぶりにカメラ本体が欲しくなってきた
+- [2025年プラットフォームエンジニア5年目のふりかえり](https://toshi0607.com/review/5th-year-of-platform-engineer/) 
+    - プライベートOKRなるほど
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb)
+    - aws環境でもうごくのかな
