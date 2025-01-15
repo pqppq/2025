@@ -18,3 +18,4 @@
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb)
     - aws環境でもうごくのかな
 - [Gleam](Gleam is a friendly language for building type-safe systems) 
+- [なんとなくRustで書いたNeovimプラグイン - cargo.nvim の話](https://syu-m-5151.hatenablog.com/entry/2025/01/15/110831)
