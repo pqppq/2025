@@ -19,3 +19,4 @@
     - aws環境でもうごくのかな
 - [Gleam](Gleam is a friendly language for building type-safe systems) 
 - [なんとなくRustで書いたNeovimプラグイン - cargo.nvim の話](https://syu-m-5151.hatenablog.com/entry/2025/01/15/110831)
+- [大企業の幹部がやっている事について](https://kumagi.hatenablog.com/entry/what-executives-do)
